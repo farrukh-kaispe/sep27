@@ -294,7 +294,7 @@
             "properties": {
                 "addOnPackages": [
                     {
-                        "packageUri": "https://kspwebstorageaccount.blob.core.windows.net/kspwebstoragecontainer/AzurePortal-10-sep.zip?sp=r&st=2019-09-11T04:37:16Z&se=2019-09-30T12:37:16Z&spr=https&sv=2018-03-28&sig=lCOTWZ82mqIhP7nMTjZEnZiU3%2FD2VlmCg6Z1DuHEreY%3D&sr=b"
+                        "packageUri": "https://kspwebstorageaccount.blob.core.windows.net/sep27container/sep-27-Portal.zip?sp=r&st=2019-09-27T06:17:39Z&se=2019-10-31T14:17:39Z&spr=https&sv=2018-03-28&sig=Hy8tOjMXiq35wMbu4PNuLx2Zg1haMvR7IC1LwpNNLtQ%3D&sr=b"
                     }
                 ]
                 
